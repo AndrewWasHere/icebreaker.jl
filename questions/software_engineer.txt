@@ -1,0 +1,4 @@
+At what age did you start learning to program?
+First programming language?
+Current favorite programming language?
+First computer?
